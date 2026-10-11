@@ -1,14 +1,6 @@
---CREATED BY PACATEA [SWORDGEAR STUDIOS]
+--CREATED BY NOVERIEX, ORIGINAL ACCOUNT IS PACATEA.
 --IF YOU HAVE RECIEVED A COPY OF THIS GUNSYSTEM, YOU MUST CREDIT MY WORK
-
---               ____________        _____________        _____________     _____________         ________________         ______________          _______________
---               |          |        |           |       |                  |           |                |                |                        |             |
---               |          |        |           |       |                  |           |                |                |                        |             |
---               |          |        |           |       |                  |           |                |                |                        |             |
---               |__________|        |___________|       |                  |___________|                |                |______________          |_____________|
---               |                   |           |       |                  |           |                |                |                        |             |
---               |                   |           |       |                  |           |                |                |                        |             |
---               |                   |           |       |______________    |           |                |                |______________          |             |
+-- 11/10/2026 | UPDATE | Code here may be deprecated, my current code is being used in other games so you are not allowed to access them.
 
 local tool = script.Parent
 
