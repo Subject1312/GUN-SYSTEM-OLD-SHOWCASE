@@ -1,4 +1,4 @@
---CREATED BY NOVERIEX, ORIGINAL ACCOUNT IS PACATEA.
+--CREATED BY NOVERIEX.
 --IF YOU HAVE RECIEVED A COPY OF THIS GUNSYSTEM, YOU MUST CREDIT MY WORK
 -- 11/10/2026 | UPDATE | Code here may be deprecated, my current code is being used in other games so you are not allowed to access them.
 
